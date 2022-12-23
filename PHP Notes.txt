@@ -1,0 +1,49 @@
+Comments
+Echo or Print
+Variables
+Data Types
+String Functions
+Operators
+Conditional Statements
+Switch Statement
+Loops
+Functions
+Arrays
+Arrays Sorting
+Math Functions
+Date and Time Functions
+Superglobals
+Form Handling
+Form Validation
+MySQL Connect
+MySQL Create Database
+MySQL Create Table
+MySQL Insert Data
+MySQL Select Data
+MySQL Update Data
+MySQL Delete Data
+Include Files
+File Handling
+File Open Read Close
+File Create Write
+File Upload
+Cookies
+Sessions
+Filters
+JSON
+OOP Classes and Objects
+OOP Constructor
+OOP Destructor
+OOP Access Modifiers
+OOP Inheritance
+
+
+
+
+
+
+CRUD Operations in MySQL - (Create, Read, Update, Delete)
+
+
+
+
